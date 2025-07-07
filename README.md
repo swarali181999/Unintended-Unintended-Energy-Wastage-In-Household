@@ -1,4 +1,4 @@
-Unintended Household Energy Usage – Data-Driven Analysis
+Unintended Household Energy Usage - Data-Driven Analysis
 This project explores unintended energy usage in households using data science and machine learning techniques. Built on a real-world dataset, it identifies inefficiencies in household energy consumption, predicts usage patterns, detects anomalies, and proposes actionable load-shifting strategies.
 
 ## Project Goals
